@@ -7,4 +7,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0328-odd-even-linked-list](https://github.com/prazipearl/https-github.com-prazipearl-Leetcode/tree/master/0328-odd-even-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/prazipearl/https-github.com-prazipearl-Leetcode/tree/master/0876-middle-of-the-linked-list) |
+## Two Pointers
+|  |
+| ------- |
+| [0876-middle-of-the-linked-list](https://github.com/prazipearl/https-github.com-prazipearl-Leetcode/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
