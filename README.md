@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/prazipearl/https-github.com-prazipearl-Leetcode/tree/master/0070-climbing-stairs) |
+| [0292-nim-game](https://github.com/prazipearl/https-github.com-prazipearl-Leetcode/tree/master/0292-nim-game) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -48,4 +49,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/prazipearl/https-github.com-prazipearl-Leetcode/tree/master/0088-merge-sorted-array) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/prazipearl/https-github.com-prazipearl-Leetcode/tree/master/0292-nim-game) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/prazipearl/https-github.com-prazipearl-Leetcode/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
