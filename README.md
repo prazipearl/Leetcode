@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/prazipearl/https-github.com-prazipearl-Leetcode/tree/master/0088-merge-sorted-array) |
+| [0713-subarray-product-less-than-k](https://github.com/prazipearl/https-github.com-prazipearl-Leetcode/tree/master/0713-subarray-product-less-than-k) |
 ## Sorting
 |  |
 | ------- |
@@ -57,4 +58,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/prazipearl/https-github.com-prazipearl-Leetcode/tree/master/0292-nim-game) |
+## Binary Search
+|  |
+| ------- |
+| [0713-subarray-product-less-than-k](https://github.com/prazipearl/https-github.com-prazipearl-Leetcode/tree/master/0713-subarray-product-less-than-k) |
+## Sliding Window
+|  |
+| ------- |
+| [0713-subarray-product-less-than-k](https://github.com/prazipearl/https-github.com-prazipearl-Leetcode/tree/master/0713-subarray-product-less-than-k) |
+## Prefix Sum
+|  |
+| ------- |
+| [0713-subarray-product-less-than-k](https://github.com/prazipearl/https-github.com-prazipearl-Leetcode/tree/master/0713-subarray-product-less-than-k) |
 <!---LeetCode Topics End-->
