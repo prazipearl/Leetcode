@@ -7,11 +7,7 @@ public:
         while(i<j){
            maxarea=max(min(height[i],height[j])*(j-i),maxarea);
            if(height[i]<height[j]) i++;
-           else if(height[i]>height[j]) j--;
-           else{
-            i++;
-            j--;
-           }
+           else j--;
         }
         return maxarea;
     }
