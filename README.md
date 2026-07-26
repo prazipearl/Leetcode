@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/prazipearl/https-github.com-prazipearl-Leetcode/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/prazipearl/https-github.com-prazipearl-Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0042-trapping-rain-water](https://github.com/prazipearl/https-github.com-prazipearl-Leetcode/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/prazipearl/https-github.com-prazipearl-Leetcode/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/prazipearl/https-github.com-prazipearl-Leetcode/tree/master/0141-linked-list-cycle) |
 | [0234-palindrome-linked-list](https://github.com/prazipearl/https-github.com-prazipearl-Leetcode/tree/master/0234-palindrome-linked-list) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/prazipearl/https-github.com-prazipearl-Leetcode/tree/master/0042-trapping-rain-water) |
 | [0070-climbing-stairs](https://github.com/prazipearl/https-github.com-prazipearl-Leetcode/tree/master/0070-climbing-stairs) |
 ## Memoization
 |  |
@@ -55,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/prazipearl/https-github.com-prazipearl-Leetcode/tree/master/0011-container-with-most-water) |
+| [0042-trapping-rain-water](https://github.com/prazipearl/https-github.com-prazipearl-Leetcode/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/prazipearl/https-github.com-prazipearl-Leetcode/tree/master/0088-merge-sorted-array) |
 | [0713-subarray-product-less-than-k](https://github.com/prazipearl/https-github.com-prazipearl-Leetcode/tree/master/0713-subarray-product-less-than-k) |
 ## Sorting
@@ -89,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/prazipearl/https-github.com-prazipearl-Leetcode/tree/master/0042-trapping-rain-water) |
 | [0234-palindrome-linked-list](https://github.com/prazipearl/https-github.com-prazipearl-Leetcode/tree/master/0234-palindrome-linked-list) |
 ## Number Theory
 |  |
@@ -98,4 +102,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/prazipearl/https-github.com-prazipearl-Leetcode/tree/master/0011-container-with-most-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/prazipearl/https-github.com-prazipearl-Leetcode/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
