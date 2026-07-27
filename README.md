@@ -66,11 +66,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/prazipearl/https-github.com-prazipearl-Leetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/prazipearl/https-github.com-prazipearl-Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0713-subarray-product-less-than-k](https://github.com/prazipearl/https-github.com-prazipearl-Leetcode/tree/master/0713-subarray-product-less-than-k) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/prazipearl/https-github.com-prazipearl-Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Sorting
 |  |
 | ------- |
 | [0015-3sum](https://github.com/prazipearl/https-github.com-prazipearl-Leetcode/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/prazipearl/https-github.com-prazipearl-Leetcode/tree/master/0088-merge-sorted-array) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/prazipearl/https-github.com-prazipearl-Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Brainteaser
 |  |
 | ------- |
@@ -113,4 +115,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/prazipearl/https-github.com-prazipearl-Leetcode/tree/master/0042-trapping-rain-water) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/prazipearl/https-github.com-prazipearl-Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 <!---LeetCode Topics End-->
