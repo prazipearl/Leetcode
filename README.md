@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/prazipearl/https-github.com-prazipearl-Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0713-subarray-product-less-than-k](https://github.com/prazipearl/https-github.com-prazipearl-Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/prazipearl/https-github.com-prazipearl-Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/prazipearl/https-github.com-prazipearl-Leetcode/tree/master/1970-last-day-where-you-can-still-cross) |
 ## Sorting
 |  |
 | ------- |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0713-subarray-product-less-than-k](https://github.com/prazipearl/https-github.com-prazipearl-Leetcode/tree/master/0713-subarray-product-less-than-k) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/prazipearl/https-github.com-prazipearl-Leetcode/tree/master/1970-last-day-where-you-can-still-cross) |
 ## Sliding Window
 |  |
 | ------- |
@@ -126,16 +128,23 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/prazipearl/https-github.com-prazipearl-Leetcode/tree/master/0547-number-of-provinces) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/prazipearl/https-github.com-prazipearl-Leetcode/tree/master/1970-last-day-where-you-can-still-cross) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/prazipearl/https-github.com-prazipearl-Leetcode/tree/master/0547-number-of-provinces) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/prazipearl/https-github.com-prazipearl-Leetcode/tree/master/1970-last-day-where-you-can-still-cross) |
 ## Union-Find
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/prazipearl/https-github.com-prazipearl-Leetcode/tree/master/0547-number-of-provinces) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/prazipearl/https-github.com-prazipearl-Leetcode/tree/master/1970-last-day-where-you-can-still-cross) |
 ## Graph Theory
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/prazipearl/https-github.com-prazipearl-Leetcode/tree/master/0547-number-of-provinces) |
+## Matrix
+|  |
+| ------- |
+| [1970-last-day-where-you-can-still-cross](https://github.com/prazipearl/https-github.com-prazipearl-Leetcode/tree/master/1970-last-day-where-you-can-still-cross) |
 <!---LeetCode Topics End-->
