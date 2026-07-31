@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/prazipearl/https-github.com-prazipearl-Leetcode/tree/master/0002-add-two-numbers) |
 | [0070-climbing-stairs](https://github.com/prazipearl/https-github.com-prazipearl-Leetcode/tree/master/0070-climbing-stairs) |
 | [0292-nim-game](https://github.com/prazipearl/https-github.com-prazipearl-Leetcode/tree/master/0292-nim-game) |
+| [2544-alternating-digit-sum](https://github.com/prazipearl/https-github.com-prazipearl-Leetcode/tree/master/2544-alternating-digit-sum) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/prazipearl/https-github.com-prazipearl-Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Dynamic Programming
 |  |
