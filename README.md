@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/prazipearl/https-github.com-prazipearl-Leetcode/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/prazipearl/https-github.com-prazipearl-Leetcode/tree/master/0141-linked-list-cycle) |
 | [0234-palindrome-linked-list](https://github.com/prazipearl/https-github.com-prazipearl-Leetcode/tree/master/0234-palindrome-linked-list) |
+| [0287-find-the-duplicate-number](https://github.com/prazipearl/https-github.com-prazipearl-Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0876-middle-of-the-linked-list](https://github.com/prazipearl/https-github.com-prazipearl-Leetcode/tree/master/0876-middle-of-the-linked-list) |
 ## Hash Table
 |  |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/prazipearl/https-github.com-prazipearl-Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/prazipearl/https-github.com-prazipearl-Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0238-product-of-array-except-self](https://github.com/prazipearl/https-github.com-prazipearl-Leetcode/tree/master/0238-product-of-array-except-self) |
+| [0287-find-the-duplicate-number](https://github.com/prazipearl/https-github.com-prazipearl-Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0454-4sum-ii](https://github.com/prazipearl/https-github.com-prazipearl-Leetcode/tree/master/0454-4sum-ii) |
 | [0713-subarray-product-less-than-k](https://github.com/prazipearl/https-github.com-prazipearl-Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0877-stone-game](https://github.com/prazipearl/https-github.com-prazipearl-Leetcode/tree/master/0877-stone-game) |
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/prazipearl/https-github.com-prazipearl-Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0713-subarray-product-less-than-k](https://github.com/prazipearl/https-github.com-prazipearl-Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/prazipearl/https-github.com-prazipearl-Leetcode/tree/master/1970-last-day-where-you-can-still-cross) |
 ## Sliding Window
@@ -179,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0090-subsets-ii](https://github.com/prazipearl/https-github.com-prazipearl-Leetcode/tree/master/0090-subsets-ii) |
+| [0287-find-the-duplicate-number](https://github.com/prazipearl/https-github.com-prazipearl-Leetcode/tree/master/0287-find-the-duplicate-number) |
 ## Design
 |  |
 | ------- |
