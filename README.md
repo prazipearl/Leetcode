@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/prazipearl/https-github.com-prazipearl-Leetcode/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/prazipearl/https-github.com-prazipearl-Leetcode/tree/master/0048-rotate-image) |
 | [0056-merge-intervals](https://github.com/prazipearl/https-github.com-prazipearl-Leetcode/tree/master/0056-merge-intervals) |
+| [0057-insert-interval](https://github.com/prazipearl/https-github.com-prazipearl-Leetcode/tree/master/0057-insert-interval) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/prazipearl/https-github.com-prazipearl-Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/prazipearl/https-github.com-prazipearl-Leetcode/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/prazipearl/https-github.com-prazipearl-Leetcode/tree/master/0090-subsets-ii) |
