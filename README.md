@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/prazipearl/https-github.com-prazipearl-Leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/prazipearl/https-github.com-prazipearl-Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0141-linked-list-cycle](https://github.com/prazipearl/https-github.com-prazipearl-Leetcode/tree/master/0141-linked-list-cycle) |
+| [0169-majority-element](https://github.com/prazipearl/https-github.com-prazipearl-Leetcode/tree/master/0169-majority-element) |
 | [0454-4sum-ii](https://github.com/prazipearl/https-github.com-prazipearl-Leetcode/tree/master/0454-4sum-ii) |
 ## Recursion
 |  |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/prazipearl/https-github.com-prazipearl-Leetcode/tree/master/0090-subsets-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/prazipearl/https-github.com-prazipearl-Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/prazipearl/https-github.com-prazipearl-Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0169-majority-element](https://github.com/prazipearl/https-github.com-prazipearl-Leetcode/tree/master/0169-majority-element) |
 | [0238-product-of-array-except-self](https://github.com/prazipearl/https-github.com-prazipearl-Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0287-find-the-duplicate-number](https://github.com/prazipearl/https-github.com-prazipearl-Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0454-4sum-ii](https://github.com/prazipearl/https-github.com-prazipearl-Leetcode/tree/master/0454-4sum-ii) |
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/prazipearl/https-github.com-prazipearl-Leetcode/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/prazipearl/https-github.com-prazipearl-Leetcode/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/prazipearl/https-github.com-prazipearl-Leetcode/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/prazipearl/https-github.com-prazipearl-Leetcode/tree/master/0169-majority-element) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/prazipearl/https-github.com-prazipearl-Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Brainteaser
 |  |
@@ -191,4 +194,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/prazipearl/https-github.com-prazipearl-Leetcode/tree/master/0232-implement-queue-using-stacks) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/prazipearl/https-github.com-prazipearl-Leetcode/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/prazipearl/https-github.com-prazipearl-Leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
