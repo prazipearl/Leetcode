@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/prazipearl/https-github.com-prazipearl-Leetcode/tree/master/0018-4sum) |
 | [0042-trapping-rain-water](https://github.com/prazipearl/https-github.com-prazipearl-Leetcode/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/prazipearl/https-github.com-prazipearl-Leetcode/tree/master/0048-rotate-image) |
+| [0056-merge-intervals](https://github.com/prazipearl/https-github.com-prazipearl-Leetcode/tree/master/0056-merge-intervals) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/prazipearl/https-github.com-prazipearl-Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/prazipearl/https-github.com-prazipearl-Leetcode/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/prazipearl/https-github.com-prazipearl-Leetcode/tree/master/0090-subsets-ii) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/prazipearl/https-github.com-prazipearl-Leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/prazipearl/https-github.com-prazipearl-Leetcode/tree/master/0018-4sum) |
+| [0056-merge-intervals](https://github.com/prazipearl/https-github.com-prazipearl-Leetcode/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/prazipearl/https-github.com-prazipearl-Leetcode/tree/master/0088-merge-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/prazipearl/https-github.com-prazipearl-Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Brainteaser
