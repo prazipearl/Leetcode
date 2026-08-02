@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/prazipearl/https-github.com-prazipearl-Leetcode/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/prazipearl/https-github.com-prazipearl-Leetcode/tree/master/0169-majority-element) |
 | [0454-4sum-ii](https://github.com/prazipearl/https-github.com-prazipearl-Leetcode/tree/master/0454-4sum-ii) |
+| [0560-subarray-sum-equals-k](https://github.com/prazipearl/https-github.com-prazipearl-Leetcode/tree/master/0560-subarray-sum-equals-k) |
 ## Recursion
 |  |
 | ------- |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/prazipearl/https-github.com-prazipearl-Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0287-find-the-duplicate-number](https://github.com/prazipearl/https-github.com-prazipearl-Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0454-4sum-ii](https://github.com/prazipearl/https-github.com-prazipearl-Leetcode/tree/master/0454-4sum-ii) |
+| [0560-subarray-sum-equals-k](https://github.com/prazipearl/https-github.com-prazipearl-Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/prazipearl/https-github.com-prazipearl-Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0877-stone-game](https://github.com/prazipearl/https-github.com-prazipearl-Leetcode/tree/master/0877-stone-game) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/prazipearl/https-github.com-prazipearl-Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/prazipearl/https-github.com-prazipearl-Leetcode/tree/master/0238-product-of-array-except-self) |
+| [0560-subarray-sum-equals-k](https://github.com/prazipearl/https-github.com-prazipearl-Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/prazipearl/https-github.com-prazipearl-Leetcode/tree/master/0713-subarray-product-less-than-k) |
 ## String
 |  |
