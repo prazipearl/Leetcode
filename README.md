@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/prazipearl/https-github.com-prazipearl-Leetcode/tree/master/0002-add-two-numbers) |
 | [0070-climbing-stairs](https://github.com/prazipearl/https-github.com-prazipearl-Leetcode/tree/master/0070-climbing-stairs) |
 | [0292-nim-game](https://github.com/prazipearl/https-github.com-prazipearl-Leetcode/tree/master/0292-nim-game) |
+| [0877-stone-game](https://github.com/prazipearl/https-github.com-prazipearl-Leetcode/tree/master/0877-stone-game) |
 | [2544-alternating-digit-sum](https://github.com/prazipearl/https-github.com-prazipearl-Leetcode/tree/master/2544-alternating-digit-sum) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/prazipearl/https-github.com-prazipearl-Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Dynamic Programming
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/prazipearl/https-github.com-prazipearl-Leetcode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/prazipearl/https-github.com-prazipearl-Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/prazipearl/https-github.com-prazipearl-Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0877-stone-game](https://github.com/prazipearl/https-github.com-prazipearl-Leetcode/tree/master/0877-stone-game) |
 ## Memoization
 |  |
 | ------- |
@@ -78,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/prazipearl/https-github.com-prazipearl-Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0454-4sum-ii](https://github.com/prazipearl/https-github.com-prazipearl-Leetcode/tree/master/0454-4sum-ii) |
 | [0713-subarray-product-less-than-k](https://github.com/prazipearl/https-github.com-prazipearl-Leetcode/tree/master/0713-subarray-product-less-than-k) |
+| [0877-stone-game](https://github.com/prazipearl/https-github.com-prazipearl-Leetcode/tree/master/0877-stone-game) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/prazipearl/https-github.com-prazipearl-Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/prazipearl/https-github.com-prazipearl-Leetcode/tree/master/1970-last-day-where-you-can-still-cross) |
 ## Sorting
@@ -95,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/prazipearl/https-github.com-prazipearl-Leetcode/tree/master/0292-nim-game) |
+| [0877-stone-game](https://github.com/prazipearl/https-github.com-prazipearl-Leetcode/tree/master/0877-stone-game) |
 ## Binary Search
 |  |
 | ------- |
