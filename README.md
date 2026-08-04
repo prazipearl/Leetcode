@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/prazipearl/https-github.com-prazipearl-Leetcode/tree/master/0169-majority-element) |
 | [0454-4sum-ii](https://github.com/prazipearl/https-github.com-prazipearl-Leetcode/tree/master/0454-4sum-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/prazipearl/https-github.com-prazipearl-Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [3731-find-missing-elements](https://github.com/prazipearl/https-github.com-prazipearl-Leetcode/tree/master/3731-find-missing-elements) |
 ## Recursion
 |  |
 | ------- |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/prazipearl/https-github.com-prazipearl-Leetcode/tree/master/0877-stone-game) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/prazipearl/https-github.com-prazipearl-Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/prazipearl/https-github.com-prazipearl-Leetcode/tree/master/1970-last-day-where-you-can-still-cross) |
+| [3731-find-missing-elements](https://github.com/prazipearl/https-github.com-prazipearl-Leetcode/tree/master/3731-find-missing-elements) |
 ## Sorting
 |  |
 | ------- |
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/prazipearl/https-github.com-prazipearl-Leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/prazipearl/https-github.com-prazipearl-Leetcode/tree/master/0169-majority-element) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/prazipearl/https-github.com-prazipearl-Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [3731-find-missing-elements](https://github.com/prazipearl/https-github.com-prazipearl-Leetcode/tree/master/3731-find-missing-elements) |
 ## Brainteaser
 |  |
 | ------- |
