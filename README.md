@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/prazipearl/https-github.com-prazipearl-Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/prazipearl/https-github.com-prazipearl-Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0876-middle-of-the-linked-list](https://github.com/prazipearl/https-github.com-prazipearl-Leetcode/tree/master/0876-middle-of-the-linked-list) |
+| [1768-merge-strings-alternately](https://github.com/prazipearl/https-github.com-prazipearl-Leetcode/tree/master/1768-merge-strings-alternately) |
 ## Hash Table
 |  |
 | ------- |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/prazipearl/https-github.com-prazipearl-Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0022-generate-parentheses](https://github.com/prazipearl/https-github.com-prazipearl-Leetcode/tree/master/0022-generate-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/prazipearl/https-github.com-prazipearl-Leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [1768-merge-strings-alternately](https://github.com/prazipearl/https-github.com-prazipearl-Leetcode/tree/master/1768-merge-strings-alternately) |
 ## Stack
 |  |
 | ------- |
