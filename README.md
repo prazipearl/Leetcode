@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/prazipearl/https-github.com-prazipearl-Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/prazipearl/https-github.com-prazipearl-Leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/prazipearl/https-github.com-prazipearl-Leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/prazipearl/https-github.com-prazipearl-Leetcode/tree/master/0018-4sum) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/prazipearl/https-github.com-prazipearl-Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/prazipearl/https-github.com-prazipearl-Leetcode/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/prazipearl/https-github.com-prazipearl-Leetcode/tree/master/0042-trapping-rain-water) |
 | [0070-climbing-stairs](https://github.com/prazipearl/https-github.com-prazipearl-Leetcode/tree/master/0070-climbing-stairs) |
@@ -146,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/prazipearl/https-github.com-prazipearl-Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/prazipearl/https-github.com-prazipearl-Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/prazipearl/https-github.com-prazipearl-Leetcode/tree/master/0022-generate-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/prazipearl/https-github.com-prazipearl-Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/prazipearl/https-github.com-prazipearl-Leetcode/tree/master/0424-longest-repeating-character-replacement) |
@@ -224,4 +227,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/prazipearl/https-github.com-prazipearl-Leetcode/tree/master/0169-majority-element) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/prazipearl/https-github.com-prazipearl-Leetcode/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
